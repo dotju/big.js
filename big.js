@@ -18,7 +18,7 @@
      * The maximum number of decimal places (DP) of the results of operations involving division:
      * div and sqrt, and pow with negative exponents.
      */
-    DP = 20,            // 0 to MAX_DP
+    DP = 30,            // 0 to MAX_DP
 
     /*
      * The rounding mode (RM) used when rounding to the above decimal places.
